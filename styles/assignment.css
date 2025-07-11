@@ -154,8 +154,9 @@ div h6{
 }
 .download-pic{
      border-radius: 48px ;
-     margin: 20px 150px 71px;
-    
+     margin: 20px auto;
+     display: block;
+
 }
 /* details styles */
 .details-container{
