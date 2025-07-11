@@ -105,3 +105,32 @@ div h6{
     margin-top: 0;
     text-align: center;
 }
+/* review styles */
+.reviews-title{
+    font-size: 42px;
+    font-weight: bolder;
+    text-align: center;
+}
+.reviews-container{
+    display: flex;
+    margin: 50px 151px;
+    gap: 24px;
+}
+.ratings{
+    padding:30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+}
+.ratings:hover{
+    background-color: purple;
+    color: white;
+}
+.rating-description{
+    align-items: center;
+}
+.reviewer-pic{
+    border-radius: 50%;
+}
+.reviewer-name{
+    display: flex;
+}
