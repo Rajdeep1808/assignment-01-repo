@@ -1,0 +1,87 @@
+
+.inter-normal> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+/* shared styles */
+.bg-image{
+    background-image: url(../Assets/Hero-bg.png);
+}
+.btn-primary{
+    background-color: #4E47FF;
+    color: white;
+    padding: 12px 36px;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+.btn-primary:hover{
+    background-color: yellowgreen;
+    color: black;
+}
+/* nav-styles */
+nav h3{
+    color: rgba(78, 71, 255, 1);
+    font-size: 34px;
+    font-weight: 900;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px;
+}
+.space{
+    text-align: center;
+    padding: 70px 267px 152px;
+    
+}
+div h6{
+    font-size: 65px;
+    font-weight: bold;
+    margin-bottom: 37px;
+}
+
+/* banner styles */
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+}
+.banner-text{
+    margin: 178px 141px;
+}
+.banner-title{
+    font-size: 42px;
+    font-weight: bolder;
+    margin-bottom: 24px;
+}
+.banner-description{
+    align-items: center;
+    font-size: 24px;
+    font-weight: 100;
+}
+.banner-img{
+    margin: 116px 141px;
+    border-radius: 48px;
+}
+
+/* user section styles */
+.user-section-head{
+    font-size: 38px;
+    font-weight: bolder;
+}
+.info-head{
+    font-size: 80px;
+    margin-bottom: 0;
+    color: #4E47FF;
+}
+.info-section{
+    display: flex;
+    justify-content: space-around;
+}
