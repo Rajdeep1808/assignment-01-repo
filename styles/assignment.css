@@ -131,8 +131,16 @@ div h6{
 .rating-description{
     align-items: center;
 }
+.rating-pic-repeat{
+    display: flex;
+}
+.reviewer{
+    display: flex;
+    gap: 6px;
+}
 .reviewer-pic{
     border-radius: 50%;
+    margin-top: 24px;
 }
 .reviewer-name{
     display: flex;
