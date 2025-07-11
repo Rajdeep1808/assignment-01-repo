@@ -154,3 +154,28 @@ div h6{
      margin: 20px 150px 71px;
     
 }
+/* details styles */
+.details-container{
+    display: flex;
+    padding: 0px 190px 14px;
+    gap: 115px;
+}
+.details-title{
+    font-size: 97px;
+    padding: 200px 0;
+    
+}
+.details-info{
+    padding: 200px 0px;
+}
+form input[type="email"], form input[type="name"],  form textarea{
+    height: 30px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.129) ;
+}
