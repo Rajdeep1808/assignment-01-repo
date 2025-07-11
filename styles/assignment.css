@@ -72,16 +72,36 @@ div h6{
 }
 
 /* user section styles */
+.product-user{
+    background-color: #d5d4f2;
+    margin: 116px 159px 137px 141px;
+    border-radius: 24px;
+    justify-content: center;
+}
+.user-section{
+    padding: 50px 142px 40px;
+}
 .user-section-head{
     font-size: 38px;
     font-weight: bolder;
+    text-align: center;
+    
+    
 }
 .info-head{
     font-size: 80px;
     margin-bottom: 0;
     color: #4E47FF;
+    
+.info-container{
+    margin:40px 142px 50px;
+}   
 }
 .info-section{
     display: flex;
     justify-content: space-around;
+    list-style: none;
+    padding-bottom: 50px;
+    margin-top: 0;
+    text-align: center;
 }
