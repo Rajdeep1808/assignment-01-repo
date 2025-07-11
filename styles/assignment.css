@@ -134,3 +134,23 @@ div h6{
 .reviewer-name{
     display: flex;
 }
+/* download styles */
+.download-container{
+    padding: 71px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06); 
+    margin: 137px 151px 92px;
+    border-radius: 14px;
+}
+.download-text{
+    text-align: center;
+}
+.download-title{
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 20px;
+}
+.download-pic{
+     border-radius: 48px ;
+     margin: 20px 150px 71px;
+    
+}
