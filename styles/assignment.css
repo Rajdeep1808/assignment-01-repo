@@ -160,8 +160,9 @@ div h6{
 /* details styles */
 .details-container{
     display: flex;
-    padding: 0px 190px 14px;
+    padding: 0px 200px 14px 100px;
     gap: 115px;
+    justify-content: center;
 }
 .details-title{
     font-size: 97px;
